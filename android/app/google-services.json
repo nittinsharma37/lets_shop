@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "663394705567",
+    "project_id": "fire-ecomm",
+    "storage_bucket": "fire-ecomm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663394705567:android:ebab82b735d81b4e43c2aa",
+        "android_client_info": {
+          "package_name": "com.nittin.fireecomm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNY_0G2lHHOhVGJnEms6OOD-kLd-KgxSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663394705567:android:d01996a62be7b96d43c2aa",
+        "android_client_info": {
+          "package_name": "com.nittin.lets_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNY_0G2lHHOhVGJnEms6OOD-kLd-KgxSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

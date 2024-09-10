@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD0K0kib1oQhjg4aRWH0vvv9B4ivx8auLI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>663394705567</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nittin.letsShop</string>
+	<key>PROJECT_ID</key>
+	<string>fire-ecomm</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fire-ecomm.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:663394705567:ios:7d5cbb0fe0853a0143c2aa</string>
+</dict>
+</plist>
